@@ -1,0 +1,4 @@
+movements,NBT,NBL,SBT,SBL,WBT,WBL,EBT,EBL
+signal (s),30,30,30,30,30,30,30,30
+demand traffic (veh/hr/lane),200,200,250,150,150,200,250,200
+volume to capacity ratio,0.44,0.44,0.56,0.33,0.33,0.44,0.56,0.44
